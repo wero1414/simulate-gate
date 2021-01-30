@@ -1,4 +1,4 @@
-NAME=CELL_NAME
+NAME=sky130_fd_sc_hd__nand2_1.spice
 
 all: sim
 
