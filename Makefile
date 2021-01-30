@@ -1,4 +1,4 @@
-NAME=sky130_fd_sc_hd__nand2_1.spice
+NAME=sky130_fd_sc_hd__xor2_1
 
 all: sim
 
